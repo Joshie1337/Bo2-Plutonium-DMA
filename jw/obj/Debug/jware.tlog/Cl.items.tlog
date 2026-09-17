@@ -1,0 +1,14 @@
+C:\Users\Joshie\Desktop\bo2\jw\main.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\main.obj
+C:\Users\Joshie\Desktop\bo2\jw\menu.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\menu.obj
+C:\Users\Joshie\Desktop\bo2\jw\Memory.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\Memory.obj
+C:\Users\Joshie\Desktop\bo2\jw\OverlayDX11.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\OverlayDX11.obj
+C:\Users\Joshie\Desktop\bo2\jw\DmaCache.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\DmaCache.obj
+C:\Users\Joshie\Desktop\bo2\jw\imgui\imgui.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\imgui.obj
+C:\Users\Joshie\Desktop\bo2\jw\imgui\imgui_draw.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\imgui_draw.obj
+C:\Users\Joshie\Desktop\bo2\jw\imgui\imgui_tables.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\imgui_tables.obj
+C:\Users\Joshie\Desktop\bo2\jw\imgui\imgui_widgets.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\imgui_widgets.obj
+C:\Users\Joshie\Desktop\bo2\jw\imgui\backends\imgui_impl_dx11.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\imgui_impl_dx11.obj
+C:\Users\Joshie\Desktop\bo2\jw\imgui\backends\imgui_impl_win32.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\imgui_impl_win32.obj
+C:\Users\Joshie\Desktop\bo2\jw\makcu\makcu.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\makcu.obj
+C:\Users\Joshie\Desktop\bo2\jw\makcu\makcu_wrapper.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\makcu_wrapper.obj
+C:\Users\Joshie\Desktop\bo2\jw\makcu\serialport.cpp;C:\Users\Joshie\Desktop\bo2\jw\obj\Debug\serialport.obj
