@@ -1,0 +1,50 @@
+# Build artifacts
+**/obj/**
+**/bin/**
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog/
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.vcxproj.filters
+*.exe
+*.dll
+*.lib
+*.manifest
+
+# IDE
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Dependencies
+**/dma/bin/**
+**/dma/lib/**
+**/dma/include/**
+!jw/dma/include/leechcore.h
+!jw/dma/include/vmmdll.h
+
+# Syncthing
+.stfolder/
+
+# ImGui cache
+jw/imgui.ini
+
+# OS files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Config
+**/config/**
+*.JW
